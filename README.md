@@ -4,7 +4,7 @@ A modern, responsive personal developer portfolio and service showcase built for
 
 ## Live Demo
 
-Add the deployed website URL here after deployment.
+https://mint-portfolio-gamma.vercel.app/
 
 ## About
 
